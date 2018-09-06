@@ -10,8 +10,7 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
-.wrapper {
-	width: 660px;
+.w{
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
